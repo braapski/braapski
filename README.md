@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cryptocurrency/web 3
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on a research hub
-- 📫 How to reach me GitHub 
+- 📫 CryptoCurrently = https://discord.gg/aHuDt7RJ
 
 <!---
 braapski/braapski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
